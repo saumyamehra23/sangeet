@@ -55,9 +55,9 @@ Wiz Khalifa - Young, Wild and Free
 Enter an anchor song for which you want similar recommendations (Choose one from the above list).
 ```
 Enter a Song Name
-Fireworks
+The Scientist
 ```
 ### Results
-The code generates two recommendations for the song Fireworks by Katy Perry, 1) Moves like Jagger by Maroon 5 and 2) On the Floor by John Mayer.
+The code generates two recommendations for the song The Scientist by Coldplay, 1) Let Her Go by Passenger and 2) Say by John Mayer.
 
 ![Output_1](https://github.com/VikramShenoy97/Music-Recommendation-Using-Deep-Learning/blob/master/Images/Output_1.png)
